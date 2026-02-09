@@ -1,0 +1,3 @@
+SELECT eventTime, userIdentity.userName, sourceIPAddress
+FROM cloudtrail_logs
+WHERE eventName = 'TerminateInstances';

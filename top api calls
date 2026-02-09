@@ -1,0 +1,3 @@
+fields @timestamp, eventName
+| stats count() by eventName
+| sort count desc

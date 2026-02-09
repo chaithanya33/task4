@@ -15,6 +15,15 @@ we can open json format
 
 <img width="1837" height="620" alt="Screenshot 2026-02-09 194207" src="https://github.com/user-attachments/assets/ec7b7425-4457-49a3-82e4-59419c9453dd" />
 
+TERMINATED instances auditing by squl querys 
+
+<img width="1128" height="770" alt="Screenshot 2026-02-09 195102" src="https://github.com/user-attachments/assets/9433f91b-6a0d-4e59-a333-3db1eaeabe58" />
+
+
+
+
+
+
 
 
 

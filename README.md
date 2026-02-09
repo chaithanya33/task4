@@ -9,4 +9,12 @@ using clodwatch log gropus in s3 bucket filtering by sql query // top api calls
 
 <img width="1128" height="700" alt="image" src="https://github.com/user-attachments/assets/5778e89b-f513-45e1-a2a8-ca44eefc5a85" />
 
+cloud trail auidts stored in s3 
+
+we can open json format 
+
+<img width="1837" height="620" alt="Screenshot 2026-02-09 194207" src="https://github.com/user-attachments/assets/ec7b7425-4457-49a3-82e4-59419c9453dd" />
+
+
+
 

@@ -19,6 +19,11 @@ TERMINATED instances auditing by squl querys
 
 <img width="1128" height="770" alt="Screenshot 2026-02-09 195102" src="https://github.com/user-attachments/assets/9433f91b-6a0d-4e59-a333-3db1eaeabe58" />
 
+cloud trail audit in 3 regions
+<img width="1472" height="535" alt="Screenshot 2026-02-09 195811" src="https://github.com/user-attachments/assets/61dcd7b8-40a8-4507-a656-476975981150" />
+
+
+
 
 
 
